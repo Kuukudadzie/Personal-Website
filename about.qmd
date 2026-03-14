@@ -8,12 +8,9 @@ page-layout: full
 
   <p class="section-label">About Me</p>
 
-  <img src="profile.jpg" style="width:100%; border-radius:4px;" alt="Benjamin Mensah Dadzie">
+  <div style="display: grid; grid-template-columns: 1fr 2fr; gap: 3rem; align-items: start;">
     <div>
-      <!-- Replace 'profile.jpg' with your actual photo file -->
-      <div style="background: var(--dark-card); border: 1px solid var(--dark-border); aspect-ratio: 1; border-radius: 4px; display: flex; align-items: center; justify-content: center; color: var(--text-muted); font-family: 'Space Grotesk', sans-serif; font-size: 0.8rem; letter-spacing: 0.1em; text-transform: uppercase;">
-        Your Photo Here
-      </div>
+      <img src="profile.jpg" style="width:100%; border-radius:4px;" alt="Benjamin Mensah Dadzie">
       <div style="margin-top: 1.5rem;">
         <p class="small-caps" style="margin-bottom: 0.5rem;">Contact</p>
         <p style="font-size: 0.88rem; color: var(--text-muted); margin: 0.3rem 0;">
@@ -40,7 +37,8 @@ page-layout: full
         I am a PhD researcher in Computer Science at the University of Silesia in Katowice, Poland, 
         supervised by Prof. dr hab Piotr Porwik. My research focuses on <strong>concept drift detection</strong>, 
         <strong>non-stationary data streams</strong>, and the design of detectors, classifiers, and statistical 
-        metrics for adaptive machine learning systems and also does sports analytics on (Football, American Football, Basketball and Volleyball).
+        metrics for adaptive machine learning systems. I also do sports analytics across Football, 
+        American Football, Basketball, and Volleyball.
       </p>
       <p>
         I hold dual Master's degrees from the University of Silesia (Poland) and the University of L'Aquila 
@@ -50,8 +48,7 @@ page-layout: full
       </p>
       <p>
         Beyond research, I teach Mathematics at the English International School in Bratislava and 
-        serve as a Graduate Lab Assistant at the University of Silesia. I'm also deeply interested in 
-        <strong>sports analytics</strong> — applying the same rigorous data thinking to football, basketball, and beyond.
+        serve as a Graduate Lab Assistant at the University of Silesia.
       </p>
 
       <div class="accent-line"></div>
@@ -91,7 +88,7 @@ page-layout: full
 
     <div class="edu-item">
       <p class="small-caps" style="margin-bottom: 0.2rem;">2020 – 2021</p>
-      <h4 style="margin: 0;">MSc Likelihood Functions of Time Series</h4>
+      <h4 style="margin: 0;">MSc — Likelihood Functions of Time Series</h4>
       <p style="color: var(--gold); font-size: 0.9rem; margin: 0.2rem 0;">University of Silesia in Katowice, Poland <span style="color: var(--text-muted);">· Erasmus Scholarship</span></p>
       <p style="color: var(--text-muted); font-size: 0.9rem;">Advisor: Dr Agnieszka Kulawik</p>
     </div>
