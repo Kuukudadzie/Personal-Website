@@ -1,5 +1,5 @@
 [build]
-  command = "quarto render"
+  command = "bash ./scripts/install-quarto-and-render.sh"
   publish = "_site"
 
 [[redirects]]
