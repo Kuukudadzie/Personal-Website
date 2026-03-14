@@ -13,7 +13,7 @@ page-layout: full
     <p style="max-width: 560px; color: var(--text-muted); margin-top: 1.2rem; font-size: 1rem; line-height: 1.7;">
       PhD candidate at the University of Silesia in Katowice, researching novel methods for 
       detecting and characterizing drift in non-stationary data streams. I bridge rigorous statistical 
-      theory with practical machine learning applications — and I bring the same analytical lens to sports.
+      theory with practical machine learning applications and I bring the same analytical lens to sports.
     </p>
     <div style="margin-top: 2rem;">
       <a class="btn-outline-gold" href="about.qmd">About Me</a>
