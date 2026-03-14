@@ -1,4 +1,4 @@
-# Benjamin Mensah Dadzie — Personal Website
+# Benjamin Mensah Dadzie Personal Website
 
 Personal academic website and blog built with [Quarto](https://quarto.org).
 
