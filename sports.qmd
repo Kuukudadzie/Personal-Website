@@ -14,20 +14,19 @@ page-layout: full
     and predictive modelling in football, basketball, and beyond.
   </p>
 
-  <!-- Coming soon / placeholder projects -->
-  <div class="grid-2" style="margin-top: 2.5rem;">
-    <div class="pub-card">
-      <span class="tag">Football</span>
-      <span class="tag">Python</span>
-      <h4 style="margin-top: 0.8rem;">Expected Goals (xG) Modelling</h4>
-      <p style="color: var(--text-muted); font-size: 0.9rem;">
-        Building xG models from shot event data using logistic regression and gradient 
-        boosting — quantifying shot quality beyond simple goal counts.
-      </p>
-      <p style="color: var(--text-muted); font-size: 0.8rem; font-style: italic; margin-top: 0.8rem;">
-        📁 Coming soon on GitHub
-      </p>
-    </div>
+  <div class="pub-card">
+  <span class="tag">Football</span>
+  <span class="tag">Python</span>
+  <h4 style="margin-top: 0.8rem;">FIFA World Cup 2022 Analysis</h4>
+  <p style="color: var(--text-muted); font-size: 0.9rem;">
+    Shot maps, xG analysis, passing networks, pressing intensity (PPDA), 
+    and player performance radars using StatsBomb open data.
+  </p>
+  <a href="https://github.com/Kuukudadzie/football-analytics-wc2022" 
+     target="_blank" class="btn-outline-gold" style="font-size:0.72rem; padding:0.3rem 0.8rem; margin-top:0.5rem;">
+    View on GitHub →
+  </a>
+</div>
 
     <div class="pub-card">
       <span class="tag">Basketball</span>
