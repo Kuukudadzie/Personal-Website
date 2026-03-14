@@ -6,7 +6,7 @@ page-layout: full
 ```{=html}
 <div class="hero-section">
   <div class="container">
-    <p class="small-caps" style="margin-bottom: 1.5rem;">PhD Researcher · Computer Science</p>
+    <p class="small-caps" style="margin-bottom: 1.5rem;">PhD Researcher · Computer Science · IB/AP Mathematics Tutor · Sports Analyst</p>
     <h1 class="hero-name">Benjamin<br>Mensah Dadzie</h1>
     <div class="accent-line"></div>
     <p class="hero-subtitle">Concept Drift · Data Streams · Machine Learning · Statistical Analysis</p>
