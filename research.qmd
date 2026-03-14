@@ -37,7 +37,7 @@ page-layout: full
       <span class="tag">Core Theme</span>
       <h4 style="margin-top: 0.6rem;">Statistical Metrics</h4>
       <p style="color: var(--text-muted); font-size: 0.9rem;">
-        Drift scoring, visualization, and quantification — moving beyond binary 
+        Drift scoring, visualization, and quantification  moving beyond binary 
         detection to graded measures of drift severity.
       </p>
     </div>
