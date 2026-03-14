@@ -1,0 +1,111 @@
+---
+title: "Benjamin Mensah Dadzie"
+page-layout: full
+---
+
+```{=html}
+<div class="hero-section">
+  <div class="container">
+    <p class="small-caps" style="margin-bottom: 1.5rem;">PhD Researcher · Computer Science</p>
+    <h1 class="hero-name">Benjamin<br>Mensah Dadzie</h1>
+    <div class="accent-line"></div>
+    <p class="hero-subtitle">Concept Drift · Data Streams · Machine Learning · Statistical Analysis</p>
+    <p style="max-width: 560px; color: var(--text-muted); margin-top: 1.2rem; font-size: 1rem; line-height: 1.7;">
+      PhD candidate at the University of Silesia in Katowice, researching novel methods for 
+      detecting and characterizing drift in non-stationary data streams. I bridge rigorous statistical 
+      theory with practical machine learning applications — and I bring the same analytical lens to sports.
+    </p>
+    <div style="margin-top: 2rem;">
+      <a class="btn-outline-gold" href="about.qmd">About Me</a>
+      <a class="btn-outline-gold" href="research.qmd">Research</a>
+      <a class="btn-outline-gold" href="sports.qmd">Sports Analytics</a>
+      <a class="btn-outline-gold" href="https://github.com/Kuukudadzie" target="_blank">GitHub</a>
+    </div>
+  </div>
+</div>
+
+<div class="container" style="padding: 4rem 0;">
+
+  <!-- Stats row -->
+  <div class="grid-stats">
+    <div class="stat-card">
+      <div class="stat-number">8+</div>
+      <div class="stat-label">Publications</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-number">3</div>
+      <div class="stat-label">Journal Papers</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-number">5+</div>
+      <div class="stat-label">Conference Papers</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-number">4</div>
+      <div class="stat-label">Scholarships</div>
+    </div>
+  </div>
+
+  <!-- Research highlights -->
+  <div style="margin-top: 3rem;">
+    <p class="section-label">Research Focus</p>
+    <div class="grid-2">
+      <div class="pub-card">
+        <span class="tag">Concept Drift</span>
+        <h4 style="margin-top: 0.8rem; font-size: 1rem;">Drift Detection in Data Streams</h4>
+        <p style="color: var(--text-muted); font-size: 0.92rem;">
+          Novel feature-rank based methods for identifying when the underlying distribution 
+          of a data stream has shifted — critical for adaptive ML systems.
+        </p>
+      </div>
+      <div class="pub-card">
+        <span class="tag">Classification</span>
+        <h4 style="margin-top: 0.8rem; font-size: 1rem;">Multi-Classifier Drift Analysis</h4>
+        <p style="color: var(--text-muted); font-size: 0.92rem;">
+          Leveraging ensembles of classifiers to provide robust, feature-based drift 
+          detection in non-stationary environments.
+        </p>
+      </div>
+      <div class="pub-card">
+        <span class="tag">Statistics</span>
+        <h4 style="margin-top: 0.8rem; font-size: 1rem;">Statistical Tests for Drift</h4>
+        <p style="color: var(--text-muted); font-size: 0.92rem;">
+          Application of the Kolmogorov–Smirnov test and related non-parametric statistics 
+          to two-dimensional streaming data.
+        </p>
+      </div>
+      <div class="pub-card">
+        <span class="tag">Visualization</span>
+        <h4 style="margin-top: 0.8rem; font-size: 1rem;">Drift Scoring & Visualization</h4>
+        <p style="color: var(--text-muted); font-size: 0.92rem;">
+          Methods for scoring and visually communicating concept drift dynamics to 
+          support interpretable ML systems.
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Recent publications -->
+  <div style="margin-top: 3rem;">
+    <p class="section-label">Recent Publications</p>
+    <div class="pub-card">
+      <span class="tag">JAISCR 2025</span>
+      <p style="margin: 0.6rem 0 0.2rem; font-size: 0.95rem;">
+        Porwik, Orczyk, Wrobel, <strong>Dadzie</strong> · "A novel method for drift detection in streaming data based on measurement of changes in feature ranks"
+      </p>
+      <a href="https://sciendo.com/article/10.2478/jaiscr-2025-0008" target="_blank" style="font-size: 0.8rem; color: var(--gold);">Journal of AI and Soft Computing Research →</a>
+    </div>
+    <div class="pub-card">
+      <span class="tag">ACIIDS 2025</span>
+      <p style="margin: 0.6rem 0 0.2rem; font-size: 0.95rem;">
+        <strong>Dadzie</strong>, Porwik · "Feature-Based Drift Detection in Non-Stationary Data Streams Using Multiple Classifiers"
+      </p>
+      <a href="https://link.springer.com/chapter/10.1007/978-981-96-6005-6_20" target="_blank" style="font-size: 0.8rem; color: var(--gold);">Springer ACIIDS 2025 →</a>
+    </div>
+    <div style="text-align: center; margin-top: 1.5rem;">
+      <a class="btn-outline-gold" href="research.qmd">View All Publications</a>
+    </div>
+  </div>
+
+</div>
+```

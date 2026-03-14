@@ -1,0 +1,164 @@
+---
+title: "About"
+page-layout: full
+---
+
+```{=html}
+<div class="container" style="padding: 3rem 0; max-width: 860px;">
+
+  <p class="section-label">About Me</p>
+
+  <div style="display: grid; grid-template-columns: 1fr 2fr; gap: 3rem; align-items: start;">
+    <div>
+      <!-- Replace 'profile.jpg' with your actual photo file -->
+      <div style="background: var(--dark-card); border: 1px solid var(--dark-border); aspect-ratio: 1; border-radius: 4px; display: flex; align-items: center; justify-content: center; color: var(--text-muted); font-family: 'Space Grotesk', sans-serif; font-size: 0.8rem; letter-spacing: 0.1em; text-transform: uppercase;">
+        Your Photo Here
+      </div>
+      <div style="margin-top: 1.5rem;">
+        <p class="small-caps" style="margin-bottom: 0.5rem;">Contact</p>
+        <p style="font-size: 0.88rem; color: var(--text-muted); margin: 0.3rem 0;">
+          📧 <a href="mailto:kuukuudadzie@gmail.com">kuukuudadzie@gmail.com</a>
+        </p>
+        <p style="font-size: 0.88rem; color: var(--text-muted); margin: 0.3rem 0;">
+          📍 Krakow, Poland
+        </p>
+        <p style="font-size: 0.88rem; color: var(--text-muted); margin: 0.3rem 0;">
+          🔗 <a href="https://github.com/Kuukudadzie" target="_blank">GitHub</a>
+        </p>
+        <p style="font-size: 0.88rem; color: var(--text-muted); margin: 0.3rem 0;">
+          🎓 <a href="https://www.researchgate.net/profile/Benjamin-Dadzie-5/research" target="_blank">ResearchGate</a>
+        </p>
+      </div>
+    </div>
+
+    <div>
+      <h2 style="margin-top: 0; font-size: 2rem;">Benjamin Mensah Dadzie</h2>
+      <p style="font-family: 'Crimson Pro', serif; font-style: italic; color: var(--gold); font-size: 1.1rem; margin-top: 0;">
+        PhD Candidate · University of Silesia in Katowice
+      </p>
+      <p>
+        I am a PhD researcher in Computer Science at the University of Silesia in Katowice, Poland, 
+        supervised by Prof. dr hab Piotr Porwik. My research focuses on <strong>concept drift detection</strong>, 
+        <strong>non-stationary data streams</strong>, and the design of detectors, classifiers, and statistical 
+        metrics for adaptive machine learning systems.
+      </p>
+      <p>
+        I hold dual Master's degrees — from the University of Silesia (Poland) and the University of L'Aquila 
+        (Italy) — and a BSc from the University of Mines and Technology (Ghana), all supported by 
+        competitive full-funding scholarships. My work bridges statistical theory, time series analysis, 
+        and practical data science.
+      </p>
+      <p>
+        Beyond research, I teach Mathematics at the English International School in Bratislava and 
+        serve as a Graduate Lab Assistant at the University of Silesia. I'm also deeply interested in 
+        <strong>sports analytics</strong> — applying the same rigorous data thinking to football, basketball, and beyond.
+      </p>
+
+      <div class="accent-line"></div>
+
+      <p class="small-caps">Skills & Tools</p>
+      <div style="display: flex; flex-wrap: wrap; gap: 0.4rem; margin-top: 0.5rem;">
+        <span class="tag">Python</span>
+        <span class="tag">R</span>
+        <span class="tag">SQL</span>
+        <span class="tag">Concept Drift</span>
+        <span class="tag">Data Streams</span>
+        <span class="tag">Statistical Testing</span>
+        <span class="tag">Time Series</span>
+        <span class="tag">Machine Learning</span>
+        <span class="tag">Feature Selection</span>
+        <span class="tag">KS-Test</span>
+        <span class="tag">ADWIN</span>
+        <span class="tag">River / MOA</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Education -->
+  <div style="margin-top: 4rem;">
+    <p class="section-label">Education</p>
+
+    <div class="edu-item">
+      <p class="small-caps" style="margin-bottom: 0.2rem;">2023 – Present</p>
+      <h4 style="margin: 0;">PhD in Computer Science</h4>
+      <p style="color: var(--gold); font-size: 0.9rem; margin: 0.2rem 0;">University of Silesia in Katowice, Poland</p>
+      <p style="color: var(--text-muted); font-size: 0.9rem;">
+        Institute of Computer Science, Faculty of Science and Technology<br>
+        Supervisor: Prof. dr hab Piotr Porwik<br>
+        Focus: Concept drift, data stream mining, drift detection methods
+      </p>
+    </div>
+
+    <div class="edu-item">
+      <p class="small-caps" style="margin-bottom: 0.2rem;">2020 – 2021</p>
+      <h4 style="margin: 0;">MSc — Likelihood Functions of Time Series</h4>
+      <p style="color: var(--gold); font-size: 0.9rem; margin: 0.2rem 0;">University of Silesia in Katowice, Poland <span style="color: var(--text-muted);">· Erasmus Scholarship</span></p>
+      <p style="color: var(--text-muted); font-size: 0.9rem;">Advisor: Dr Agnieszka Kulawik</p>
+    </div>
+
+    <div class="edu-item">
+      <p class="small-caps" style="margin-bottom: 0.2rem;">2019 – 2020</p>
+      <h4 style="margin: 0;">MSc — Applied Statistical Modeling & Time Series</h4>
+      <p style="color: var(--gold); font-size: 0.9rem; margin: 0.2rem 0;">University of L'Aquila, Italy <span style="color: var(--text-muted);">· Erasmus Scholarship</span></p>
+      <p style="color: var(--text-muted); font-size: 0.9rem;">Thesis: Likelihood Functions of Time Series · Advisor: Dr Agnieszka Kulawik</p>
+    </div>
+
+    <div class="edu-item">
+      <p class="small-caps" style="margin-bottom: 0.2rem;">2014 – 2018</p>
+      <h4 style="margin: 0;">BSc — Mathematics & Statistics</h4>
+      <p style="color: var(--gold); font-size: 0.9rem; margin: 0.2rem 0;">University of Mines and Technology, Ghana <span style="color: var(--text-muted);">· GNPC Scholarship · Second Class Upper</span></p>
+      <p style="color: var(--text-muted); font-size: 0.9rem;">
+        Thesis: Time Series Analysis of Treated Water Supply (Ghana Water Company)<br>
+        Advisor: Dr Lewis Brew
+      </p>
+    </div>
+  </div>
+
+  <!-- Awards -->
+  <div style="margin-top: 4rem;">
+    <p class="section-label">Honours & Awards</p>
+    <div class="grid-2">
+      <div class="pub-card">
+        <span class="tag">2020–2021</span>
+        <h4 style="margin-top: 0.5rem; font-size: 0.95rem;">Erasmus Scholarship</h4>
+        <p style="color: var(--text-muted); font-size: 0.85rem; margin: 0;">Full funding · MSc · Poland</p>
+      </div>
+      <div class="pub-card">
+        <span class="tag">2019–2020</span>
+        <h4 style="margin-top: 0.5rem; font-size: 0.95rem;">Erasmus Scholarship</h4>
+        <p style="color: var(--text-muted); font-size: 0.85rem; margin: 0;">Full funding · MSc · Italy</p>
+      </div>
+      <div class="pub-card">
+        <span class="tag">2014–2018</span>
+        <h4 style="margin-top: 0.5rem; font-size: 0.95rem;">GNPC Scholarship</h4>
+        <p style="color: var(--text-muted); font-size: 0.85rem; margin: 0;">Full funding · BSc · Ghana</p>
+      </div>
+      <div class="pub-card">
+        <span class="tag">2010–2013</span>
+        <h4 style="margin-top: 0.5rem; font-size: 0.95rem;">Goldfields Ghana Foundation</h4>
+        <p style="color: var(--text-muted); font-size: 0.85rem; margin: 0;">Full funding · Senior High School</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Languages -->
+  <div style="margin-top: 4rem;">
+    <p class="section-label">Languages</p>
+    <div style="display: flex; gap: 2rem; flex-wrap: wrap;">
+      <div>
+        <p style="font-family: 'Space Grotesk', sans-serif; font-size: 0.85rem; margin: 0;">🇬🇧 English</p>
+        <p style="color: var(--gold); font-size: 0.78rem; margin: 0.2rem 0 0;">Native</p>
+      </div>
+      <div>
+        <p style="font-family: 'Space Grotesk', sans-serif; font-size: 0.85rem; margin: 0;">🇮🇹 Italian</p>
+        <p style="color: var(--text-muted); font-size: 0.78rem; margin: 0.2rem 0 0;">Basic</p>
+      </div>
+      <div>
+        <p style="font-family: 'Space Grotesk', sans-serif; font-size: 0.85rem; margin: 0;">🇵🇱 Polish</p>
+        <p style="color: var(--text-muted); font-size: 0.78rem; margin: 0.2rem 0 0;">Basic</p>
+      </div>
+    </div>
+  </div>
+
+</div>
+```

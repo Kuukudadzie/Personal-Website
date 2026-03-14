@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Benjamin Mensah Dadzie"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: sports.qmd
+        text: Sports Analytics
+      - href: blog.qmd
+        text: Blog
+    right:
+      - icon: github
+        href: https://github.com/Kuukudadzie
+      - icon: mortarboard-fill
+        href: https://www.researchgate.net/profile/Benjamin-Dadzie-5/research
+  page-footer:
+    center: "© 2025 Benjamin Mensah Dadzie · PhD Researcher · University of Silesia"
+
+format:
+  html:
+    theme: [flatly, theme.scss]
+    css: styles.css
+    toc: false

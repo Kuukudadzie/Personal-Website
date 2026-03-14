@@ -1,0 +1,111 @@
+---
+title: "Sports Analytics"
+page-layout: full
+---
+
+```{=html}
+<div class="container" style="padding: 3rem 0; max-width: 900px;">
+
+  <p class="section-label">Sports Analytics</p>
+
+  <p style="max-width: 660px; color: var(--text-muted);">
+    The same statistical rigour I apply to concept drift and non-stationary data streams 
+    translates naturally to sports. Here I explore performance metrics, player analytics, 
+    and predictive modelling in football, basketball, and beyond.
+  </p>
+
+  <!-- Coming soon / placeholder projects -->
+  <div class="grid-2" style="margin-top: 2.5rem;">
+    <div class="pub-card">
+      <span class="tag">Football</span>
+      <span class="tag">Python</span>
+      <h4 style="margin-top: 0.8rem;">Expected Goals (xG) Modelling</h4>
+      <p style="color: var(--text-muted); font-size: 0.9rem;">
+        Building xG models from shot event data using logistic regression and gradient 
+        boosting — quantifying shot quality beyond simple goal counts.
+      </p>
+      <p style="color: var(--text-muted); font-size: 0.8rem; font-style: italic; margin-top: 0.8rem;">
+        📁 Coming soon on GitHub
+      </p>
+    </div>
+
+    <div class="pub-card">
+      <span class="tag">Basketball</span>
+      <span class="tag">R</span>
+      <h4 style="margin-top: 0.8rem;">Player Efficiency Under Pressure</h4>
+      <p style="color: var(--text-muted); font-size: 0.9rem;">
+        Analysing how player performance metrics shift in high-leverage game situations — 
+        a sports application of non-stationarity and distribution drift.
+      </p>
+      <p style="color: var(--text-muted); font-size: 0.8rem; font-style: italic; margin-top: 0.8rem;">
+        📁 Coming soon on GitHub
+      </p>
+    </div>
+
+    <div class="pub-card">
+      <span class="tag">Football</span>
+      <span class="tag">Machine Learning</span>
+      <h4 style="margin-top: 0.8rem;">Transfer Value Prediction</h4>
+      <p style="color: var(--text-muted); font-size: 0.9rem;">
+        Predicting player transfer market values using performance data, positional 
+        metrics, and age-progression curves.
+      </p>
+      <p style="color: var(--text-muted); font-size: 0.8rem; font-style: italic; margin-top: 0.8rem;">
+        📁 Coming soon on GitHub
+      </p>
+    </div>
+
+    <div class="pub-card">
+      <span class="tag">Multi-Sport</span>
+      <span class="tag">Stats</span>
+      <h4 style="margin-top: 0.8rem;">Drift in Team Performance</h4>
+      <p style="color: var(--text-muted); font-size: 0.9rem;">
+        Applying concept drift detection algorithms to time series of team performance 
+        indicators across a season — when does a team fundamentally change?
+      </p>
+      <p style="color: var(--text-muted); font-size: 0.8rem; font-style: italic; margin-top: 0.8rem;">
+        📁 Research in progress
+      </p>
+    </div>
+  </div>
+
+  <!-- Blog posts placeholder -->
+  <div style="margin-top: 4rem;">
+    <p class="section-label">Analysis Posts</p>
+    <p style="color: var(--text-muted); font-size: 0.9rem;">
+      Detailed analyses and tutorials will be posted here. Topics will include:
+    </p>
+    <ul style="color: var(--text-muted); font-size: 0.9rem; line-height: 2;">
+      <li>How to build a shot map in Python with <code>mplsoccer</code></li>
+      <li>Applying the KS-test to detect structural breaks in team form</li>
+      <li>Clustering playing styles with k-means on event data</li>
+      <li>A Ghanaian Premier League data analysis</li>
+    </ul>
+    <p style="color: var(--text-muted); font-size: 0.85rem; font-style: italic;">
+      Subscribe via RSS or check back soon.
+    </p>
+  </div>
+
+  <!-- Data sources -->
+  <div style="margin-top: 4rem;">
+    <p class="section-label">Data Sources & Tools I Use</p>
+    <div style="display: flex; flex-wrap: wrap; gap: 0.4rem;">
+      <span class="tag">StatsBomb Open Data</span>
+      <span class="tag">FBref</span>
+      <span class="tag">Understat</span>
+      <span class="tag">Basketball-Reference</span>
+      <span class="tag">mplsoccer</span>
+      <span class="tag">pandas</span>
+      <span class="tag">scikit-learn</span>
+      <span class="tag">matplotlib</span>
+      <span class="tag">ggplot2</span>
+      <span class="tag">tidyverse</span>
+    </div>
+  </div>
+
+  <div style="margin-top: 3rem; text-align: center;">
+    <a class="btn-outline-gold" href="https://github.com/Kuukudadzie" target="_blank">See My GitHub for Code →</a>
+  </div>
+
+</div>
+```

@@ -1,0 +1,186 @@
+---
+title: "Research"
+page-layout: full
+---
+
+```{=html}
+<div class="container" style="padding: 3rem 0; max-width: 900px;">
+
+  <p class="section-label">Research & Publications</p>
+
+  <p style="max-width: 640px; color: var(--text-muted);">
+    My research investigates methods for detecting and characterizing <em>concept drift</em> and 
+    <em>data drift</em> in streaming, non-stationary environments. I develop detectors, 
+    classifiers, scoring mechanisms, and statistical metrics suited to real-world 
+    adaptive ML systems.
+  </p>
+
+  <!-- Research themes -->
+  <div class="grid-2" style="margin-top: 2.5rem;">
+    <div class="pub-card">
+      <span class="tag">Core Theme</span>
+      <h4 style="margin-top: 0.6rem;">Drift Detection</h4>
+      <p style="color: var(--text-muted); font-size: 0.9rem;">
+        Feature-rank based methods, KS-test applications, distribution shift measurement 
+        in 2D and high-dimensional streams.
+      </p>
+    </div>
+    <div class="pub-card">
+      <span class="tag">Core Theme</span>
+      <h4 style="margin-top: 0.6rem;">Adaptive Classifiers</h4>
+      <p style="color: var(--text-muted); font-size: 0.9rem;">
+        Ensemble and multi-classifier systems that maintain accuracy under distribution 
+        changes in non-stationary data.
+      </p>
+    </div>
+    <div class="pub-card">
+      <span class="tag">Core Theme</span>
+      <h4 style="margin-top: 0.6rem;">Statistical Metrics</h4>
+      <p style="color: var(--text-muted); font-size: 0.9rem;">
+        Drift scoring, visualization, and quantification — moving beyond binary 
+        detection to graded measures of drift severity.
+      </p>
+    </div>
+    <div class="pub-card">
+      <span class="tag">Core Theme</span>
+      <h4 style="margin-top: 0.6rem;">Time Series & Likelihood</h4>
+      <p style="color: var(--text-muted); font-size: 0.9rem;">
+        Likelihood functions for MA and ARMA models; applied to water supply 
+        forecasting and epidemiological modeling.
+      </p>
+    </div>
+  </div>
+
+  <!-- Journal Publications -->
+  <div style="margin-top: 4rem;">
+    <p class="section-label">Journal Publications</p>
+
+    <div class="pub-card">
+      <span class="tag">JAISCR 2025</span>
+      <span class="tag">Concept Drift</span>
+      <h4 style="margin-top: 0.8rem; font-size: 0.97rem; line-height: 1.4;">
+        A novel method for drift detection in streaming data based on measurement of changes in feature ranks
+      </h4>
+      <p style="color: var(--text-muted); font-size: 0.87rem; margin: 0.3rem 0;">
+        Piotr Porwik, Tomasz Orczyk, Krzysztof Wrobel, <strong style="color: var(--text);">Benjamin Mensah Dadzie</strong>
+      </p>
+      <p style="color: var(--text-muted); font-size: 0.83rem; font-style: italic;">
+        Journal of Artificial Intelligence and Soft Computing Research, Vol. 15, Issue 2 (March 2025)
+      </p>
+      <a href="https://sciendo.com/article/10.2478/jaiscr-2025-0008" target="_blank" class="btn-outline-gold" style="font-size: 0.72rem; padding: 0.3rem 0.8rem; margin-top: 0.5rem;">View Paper →</a>
+    </div>
+
+    <div class="pub-card">
+      <span class="tag">Procedia CS 2023</span>
+      <span class="tag">Feature Ranking</span>
+      <h4 style="margin-top: 0.8rem; font-size: 0.97rem; line-height: 1.4;">
+        A new concept drift detection method based on the ranking of features in data stream
+      </h4>
+      <p style="color: var(--text-muted); font-size: 0.87rem; margin: 0.3rem 0;">
+        Krzysztof Wrobel, Piotr Porwik, Tomasz Orczyk, <strong style="color: var(--text);">Benjamin Mensah Dadzie</strong>
+      </p>
+      <p style="color: var(--text-muted); font-size: 0.83rem; font-style: italic;">
+        Procedia Computer Science, Vol. 225, pp. 3294–3302 (2023)
+      </p>
+      <a href="https://www.sciencedirect.com/science/article/pii/S1877050923014813" target="_blank" class="btn-outline-gold" style="font-size: 0.72rem; padding: 0.3rem 0.8rem; margin-top: 0.5rem;">View Paper →</a>
+    </div>
+
+    <div class="pub-card">
+      <span class="tag">Procedia CS 2022</span>
+      <span class="tag">KS-Test</span>
+      <h4 style="margin-top: 0.8rem; font-size: 0.97rem; line-height: 1.4;">
+        Detection of data drift in a two-dimensional stream using the Kolmogorov-Smirnov test
+      </h4>
+      <p style="color: var(--text-muted); font-size: 0.87rem; margin: 0.3rem 0;">
+        Piotr Porwik, <strong style="color: var(--text);">Benjamin Mensah Dadzie</strong>
+      </p>
+      <p style="color: var(--text-muted); font-size: 0.83rem; font-style: italic;">
+        Procedia Computer Science, Vol. 207, pp. 168–175 (2022)
+      </p>
+      <a href="https://www.sciencedirect.com/science/article/pii/S187705092200922X" target="_blank" class="btn-outline-gold" style="font-size: 0.72rem; padding: 0.3rem 0.8rem; margin-top: 0.5rem;">View Paper →</a>
+    </div>
+
+    <div class="pub-card">
+      <span class="tag">ARJM 2024</span>
+      <span class="tag">Epidemiology</span>
+      <h4 style="margin-top: 0.8rem; font-size: 0.97rem; line-height: 1.4;">
+        Epidemiological Modelling of Yellow Fever Dynamics
+      </h4>
+      <p style="color: var(--text-muted); font-size: 0.87rem; margin: 0.3rem 0;">
+        H. Otoo, L. Brew, <strong style="color: var(--text);">B. Dadzie-Mensah</strong>
+      </p>
+      <p style="color: var(--text-muted); font-size: 0.83rem; font-style: italic;">
+        Asian Research Journal of Mathematics, 20(8), pp. 119–141 (2024)
+      </p>
+    </div>
+
+    <div class="pub-card">
+      <span class="tag">JAMP 2024</span>
+      <span class="tag">Mathematics</span>
+      <h4 style="margin-top: 0.8rem; font-size: 0.97rem; line-height: 1.4;">
+        Existence of Solutions of a Convolution Integral Equation
+      </h4>
+      <p style="color: var(--text-muted); font-size: 0.87rem; margin: 0.3rem 0;">
+        H. Otoo, <strong style="color: var(--text);">B. Dadzie Mensah</strong>, L. Brew
+      </p>
+      <p style="color: var(--text-muted); font-size: 0.83rem; font-style: italic;">
+        Journal of Applied Mathematics and Physics, 12(5), pp. 1835–1847 (2024)
+      </p>
+    </div>
+
+    <div class="pub-card">
+      <span class="tag">EPRA 2021</span>
+      <span class="tag">Economics</span>
+      <h4 style="margin-top: 0.8rem; font-size: 0.97rem; line-height: 1.4;">
+        The Impact of External Debt on the Economic Growth in Ghana
+      </h4>
+      <p style="color: var(--text-muted); font-size: 0.87rem; margin: 0.3rem 0;">
+        I. Adubofour, T. Mangudhla, <strong style="color: var(--text);">B. Dadzie Mensah</strong>
+      </p>
+      <p style="color: var(--text-muted); font-size: 0.83rem; font-style: italic;">
+        EPRA International Journal of Economics, Business and Management Studies, Vol. 8, Issue 9 (2021)
+      </p>
+    </div>
+  </div>
+
+  <!-- Conference Publications -->
+  <div style="margin-top: 4rem;">
+    <p class="section-label">Conference Publications</p>
+
+    <div class="pub-card">
+      <span class="tag">ACIIDS 2025</span>
+      <span class="tag">Multi-Classifier</span>
+      <h4 style="margin-top: 0.8rem; font-size: 0.97rem; line-height: 1.4;">
+        Feature-Based Drift Detection in Non-Stationary Data Streams Using Multiple Classifiers: A Comprehensive Analysis
+      </h4>
+      <p style="color: var(--text-muted); font-size: 0.87rem; margin: 0.3rem 0;">
+        <strong style="color: var(--text);">Benjamin Mensah Dadzie</strong>, Piotr Porwik
+      </p>
+      <p style="color: var(--text-muted); font-size: 0.83rem; font-style: italic;">
+        17th Asian Conference on Intelligent Information and Database Systems (ACIIDS 2025), pp. 276–291
+      </p>
+      <a href="https://link.springer.com/chapter/10.1007/978-981-96-6005-6_20" target="_blank" class="btn-outline-gold" style="font-size: 0.72rem; padding: 0.3rem 0.8rem; margin-top: 0.5rem;">View Paper →</a>
+    </div>
+
+    <div class="pub-card">
+      <span class="tag">CIIDS 2025</span>
+      <span class="tag">Visualization</span>
+      <h4 style="margin-top: 0.8rem; font-size: 0.97rem; line-height: 1.4;">
+        Concept Drift Scoring and Visualization
+      </h4>
+      <p style="color: var(--text-muted); font-size: 0.87rem; margin: 0.3rem 0;">
+        Tomasz Orczyk, <strong style="color: var(--text);">Benjamin Mensah Dadzie</strong>
+      </p>
+      <p style="color: var(--text-muted); font-size: 0.83rem; font-style: italic;">
+        Recent Challenges in Intelligent Information and Database Systems, pp. 48–58
+      </p>
+      <a href="https://link.springer.com/chapter/10.1007/978-981-96-5881-7_4" target="_blank" class="btn-outline-gold" style="font-size: 0.72rem; padding: 0.3rem 0.8rem; margin-top: 0.5rem;">View Paper →</a>
+    </div>
+  </div>
+
+  <div style="margin-top: 3rem; text-align: center;">
+    <a href="https://www.researchgate.net/profile/Benjamin-Dadzie-5/research" target="_blank" class="btn-outline-gold">Full Profile on ResearchGate →</a>
+  </div>
+
+</div>
+```

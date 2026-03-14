@@ -1,0 +1,20 @@
+---
+title: "Blog"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  feed: true
+page-layout: full
+---
+
+```{=html}
+<div class="container" style="padding: 1rem 0 0;">
+  <p class="section-label">Blog</p>
+  <p style="color: var(--text-muted); max-width: 600px; margin-bottom: 2rem;">
+    Writing about concept drift, data streams, sports analytics, and the intersection 
+    of statistics and machine learning.
+  </p>
+</div>
+```
