@@ -2,7 +2,7 @@
 title: "Champions League Round of 16: Data Lessons from the Most Dramatic Week in Years"
 date: "2026-03-20"
 categories: [sports analytics, football, Champions League, tactical analysis]
-description: "Sporting's historic comeback, Real Madrid's ruthlessness, Salah's 50th, Barcelona's demolition — what does the data tell us about the 2025/26 Champions League quarter-finalists?"
+description: "Sporting's historic comeback, Real Madrid's ruthlessness, Salah's 50th, Barcelona's demolition what does the data tell us about the 2025/26 Champions League quarter-finalists?"
 ---
 
 ## A Week That Delivered Everything
@@ -35,11 +35,11 @@ The Round of 16 second legs this week gave us comebacks, demolitions, milestone 
 
 ## 1. Sporting CP — The Greatest Comeback You May Have Missed
 
-Let's start with the most statistically extraordinary result of the week. Sporting became just the fifth team in Champions League history to overcome a first-leg deficit of three goals or more — trailing 3–0 from the first leg in Norway, they won 5–0 in the second leg including two goals in extra time.
+Let's start with the most statistically extraordinary result of the week. Sporting became just the fifth team in Champions League history to overcome a first-leg deficit of three goals or more trailing 3–0 from the first leg in Norway, they won 5–0 in the second leg including two goals in extra time.
 
-Sporting ended the match with 38 shot attempts and 14 shots on goal — an extraordinary volume of attacking output that reflects the relentless pressing and positional dominance they needed to maintain for 120 minutes.
+Sporting ended the match with 38 shot attempts and 14 shots on goal an extraordinary volume of attacking output that reflects the relentless pressing and positional dominance they needed to maintain for 120 minutes.
 
-**What the data tells us:** A team generating 38 shots in a single match is operating at a level of sustained pressure that very few sides ever reach. Their xG across the match must have been enormous — the conversion rate didn't need to be clinical, they simply needed enough volume to get five past a side that was defending desperately. This is pressing and positional play rewarded over time.
+**What the data tells us:** A team generating 38 shots in a single match is operating at a level of sustained pressure that very few sides ever reach. Their xG across the match must have been enormous the conversion rate didn't need to be clinical, they simply needed enough volume to get five past a side that was defending desperately. This is pressing and positional play rewarded over time.
 
 This result sent Sporting to the quarter-finals for the first time since the 1982/83 European Cup. A historic night.
 
@@ -47,11 +47,11 @@ This result sent Sporting to the quarter-finals for the first time since the 198
 
 ## 2. Real Madrid — Ruthless in Knockout Football
 
-Real Madrid eliminated Manchester City for the third consecutive season. Vinícius Júnior scored twice — first from the penalty spot after a Bernardo Silva handball, then in added time by steering in Aurélien Tchouaméni's delivery.
+Real Madrid eliminated Manchester City for the third consecutive season. Vinícius Júnior scored twice first from the penalty spot after a Bernardo Silva handball, then in added time by steering in Aurélien Tchouaméni's delivery.
 
 A Federico Valverde hat-trick in the first leg put Manchester City in a deep hole that they could never realistically escape. City needed a fast start to have any chance of becoming the first side ever to overturn a three-goal deficit against Madrid in European competition.
 
-**What the data tells us:** Real Madrid's knockout pedigree is not luck — it is a pattern. Three consecutive eliminations of City at this stage suggests a structural advantage: Madrid consistently raise their defensive organisation and counter-attacking sharpness precisely when it matters most. Their expected goals against in knockout phases compared to their league form is one of the most interesting analytical puzzles in modern football.
+**What the data tells us:** Real Madrid's knockout pedigree is not luck it is a pattern. Three consecutive eliminations of City at this stage suggests a structural advantage: Madrid consistently raise their defensive organisation and counter-attacking sharpness precisely when it matters most. Their expected goals against in knockout phases compared to their league form is one of the most interesting analytical puzzles in modern football.
 
 Álvaro Arbeloa could afford to leave Kylian Mbappé on the bench on his return from injury — which tells you everything about the depth and composure of this squad.
 
@@ -61,7 +61,7 @@ A Federico Valverde hat-trick in the first leg put Manchester City in a deep hol
 
 Chelsea allowed eight goals over the two-legged tie — the first time in the club's history they had conceded eight goals in a domestic or European two-legged tie.
 
-Kvaratskhelia's early opener was soon followed by a brilliant Bradley Barcola strike, quickly ending Chelsea's hopes of turning around their 5–2 first-leg deficit. PSG advanced 8–2 on aggregate — a scoreline that is simply dominant by any measure.
+Kvaratskhelia's early opener was soon followed by a brilliant Bradley Barcola strike, quickly ending Chelsea's hopes of turning around their 5–2 first-leg deficit. PSG advanced 8–2 on aggregate a scoreline that is simply dominant by any measure.
 
 **What the data tells us:** An 8–2 aggregate in a two-legged Champions League tie is a statement of absolute class difference. PSG's pressing structure under Luis Enrique forces errors high up the pitch and converts them into chances before defences can recover. Chelsea had no answer across either leg.
 
@@ -104,7 +104,7 @@ The quarter-finals are set for April 7/8 and April 14/15:
 
 **From an analytical standpoint**, these are genuinely compelling matchups:
 
-- **Real Madrid vs Bayern** is the tie of the round — two teams with elite defensive records in knockouts and historical pedigree
+- **Real Madrid vs Bayern** is the tie of the round  two teams with elite defensive records in knockouts and historical pedigree
 - **PSG vs Liverpool** pits the tournament's most dominant attacking side against Salah and a Liverpool team that looked imperious against Galatasaray
 - **Arsenal vs Sporting** — Arsenal's defensive structure against the highest-pressing, highest-shot-volume team left in the competition
 
@@ -113,9 +113,9 @@ The quarter-finals are set for April 7/8 and April 14/15:
 ## Key Analytical Takeaways
 
 1. **Shot volume over individual quality** — Sporting's 38-shot performance is the clearest demonstration this week that sustained pressure, not individual brilliance, can overcome even large deficits
-2. **Aggregate management** — PSG and Real Madrid both showed that controlling the first leg almost entirely determines the outcome of the tie
-3. **Milestone goals reveal longevity** — Kane and Salah both reaching 50 UCL goals in the same week is a reminder that sustained output at the highest level, measured over time, is the true mark of elite attackers
-4. **English clubs are struggling** — Chelsea, Manchester City, and Newcastle all eliminated. Only Arsenal and Liverpool advance. The Premier League's European dominance is under real pressure
+2. **Aggregate management** PSG and Real Madrid both showed that controlling the first leg almost entirely determines the outcome of the tie
+3. **Milestone goals reveal longevity**  Kane and Salah both reaching 50 UCL goals in the same week is a reminder that sustained output at the highest level, measured over time, is the true mark of elite attackers
+4. **English clubs are struggling**  Chelsea, Manchester City, and Newcastle all eliminated. Only Arsenal and Liverpool advance. The Premier League's European dominance is under real pressure
 
 ---
 
