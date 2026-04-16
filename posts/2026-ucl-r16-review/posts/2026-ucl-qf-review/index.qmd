@@ -62,13 +62,13 @@ Khvicha Kvaratskhelia has now **scored in four successive Champions League knock
 
 ---
 
-## 3. Atlético 3–2 Barcelona (agg)  Control, Red Cards, and Survival
+## 3. Atlético 3–2 Barcelona (agg) Control, Red Cards, and Survival
 
 Atlético won the first leg 2–1 in Madrid and then lost the second leg 2–1 at the Metropolitano yet advanced. The decisive moment came late: Eric García's red card for a professional foul on Alexander Sørloth ended Barcelona's hopes of forcing extra time. A man down, Barcelona pushed; Atlético's defensive block held.
 
 This is Atlético's **first semi-final in nine years** a fact that reflects both how difficult the modern Champions League has become for Simeone's structural defensive approach, and how well he has adapted it this season.
 
-**What the data tells us:** This tie is a textbook example of *aggregate management as a distinct skill* from winning individual matches. Atlético lost one leg and drew the tie 3–3 on a night-by-night level, but their first-leg margin and their tactical discipline when numerically advantaged late in the second leg converted the tie. In a knockout format, being the team that plays *the tie* rather than *the match* is consistently rewarded — and structurally under-priced by most public models.
+**What the data tells us:** This tie is a textbook example of *aggregate management as a distinct skill* from winning individual matches. Atlético lost one leg and drew the tie 3–3 on a night-by-night level, but their first-leg margin and their tactical discipline when numerically advantaged late in the second leg converted the tie. In a knockout format, being the team that plays *the tie* rather than *the match* is consistently rewarded and structurally under-priced by most public models.
 
 ---
 
@@ -110,3 +110,6 @@ The semi-finals will be played on **28/29 April and 5/6 May**, with the final at
 4. **The English–Portuguese quarter-final pattern keeps persisting**  ten consecutive eliminations, six of them against English clubs. That is not noise; it is a structural signal in the data worth investigating properly
 
 
+---
+
+*All results and statistics from UEFA.com, ESPN, and Arsenal.com. Analysis by  Benjamin Mensah Dadzie is a PhD researcher in Computer Science and sports analyst · [benjamin-dadzie.netlify.app](https://benjamin-dadzie.netlify.app)*
