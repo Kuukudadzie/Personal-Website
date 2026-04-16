@@ -2,7 +2,7 @@
 title: "Champions League Quarter-Finals: A Night in Munich, a Grind in London, and Two Ties Already Over"
 date: "2026-04-16"
 categories: [sports analytics, football, Champions League, tactical analysis]
-description: "Bayern's seven-goal classic against Real Madrid, Arsenal's record-low xG grind past Sporting, PSG's ruthless sweep of Liverpool, and Atlético's survival against ten-man Barcelona — what does the data tell us about the 2025/26 Champions League semi-finalists?"
+description: "Bayern's seven-goal classic against Real Madrid, Arsenal's record-low xG grind past Sporting, PSG's ruthless sweep of Liverpool, and Atlético's survival against ten-man Barcelona  what does the data tell us about the 2025/26 Champions League semi-finalists?"
 ---
 
 ## A Week of Thin Margins and One Unforgettable Night
@@ -13,7 +13,7 @@ Eight matches. Four semi-finalists. And one night at the Allianz Arena that will
 
 ## The Results at a Glance
 
-**First legs — 7 / 8 April**
+**First legs  7 / 8 April**
 
 | Match | Score |
 |---|---|
@@ -40,11 +40,11 @@ Eight matches. Four semi-finalists. And one night at the Allianz Arena that will
 
 ## 1. Bayern 4–3 Real Madrid — The Instant Classic
 
-This was the match of the season. Bayern trailed, led, were pegged back, fell behind again, and won in the 94th minute. The final blows came after Luis Díaz struck in the 89th and Michael Olise sealed it in stoppage time — with Real Madrid already down to ten men after Eduardo Camavinga's 86th-minute red card.
+This was the match of the season. Bayern trailed, led, were pegged back, fell behind again, and won in the 94th minute. The final blows came after Luis Díaz struck in the 89th and Michael Olise sealed it in stoppage time with Real Madrid already down to ten men after Eduardo Camavinga's 86th-minute red card.
 
 The opening exchanges alone were historic: **the first time both teams have scored inside the opening six minutes of a Champions League knockout stage match**. Arda Güler pounced on a Neuer error in the first minute, Pavlović equalised on six, and from there the match barely paused for breath. Güler's free-kick restored Madrid's lead on 29, Kane equalised on 38, and Mbappé made it 3–2 to Madrid on 42.
 
-**What the data tells us:** A 6–4 aggregate in a two-legged tie is extreme variance — both defences effectively broke down under sustained pressure from two of the most vertical attacking sides left in the competition. Harry Kane's 12th goal of this season's Champions League campaign is part of a 50-goal season across all competitions — a rate that sits close to a genuine Haaland-level attacking signal rather than the standard "world-class striker" baseline.
+**What the data tells us:** A 6–4 aggregate in a two-legged tie is extreme variance both defences effectively broke down under sustained pressure from two of the most vertical attacking sides left in the competition. Harry Kane's 12th goal of this season's Champions League campaign is part of a 50-goal season across all competitions a rate that sits close to a genuine Haaland-level attacking signal rather than the standard "world-class striker" baseline.
 
 The subplot worth watching: Bayern have now won all of their Champions League home matches this season and have lost only one of their last 28 at home in the competition. That is a remarkably stable base rate for a side heading into a semi-final against PSG.
 
@@ -54,9 +54,9 @@ Real Madrid, meanwhile, had won their last nine two-legged European ties against
 
 ## 2. PSG 4–0 Liverpool — The Defending Champions Look Imperious
 
-PSG entered the second leg at Anfield with a 2–0 lead and never looked like relinquishing it. Liverpool — a side that has built a mythology around European comebacks at Anfield — produced almost nothing. The 4–0 aggregate reflects a structural gulf, not a bad night.
+PSG entered the second leg at Anfield with a 2–0 lead and never looked like relinquishing it. Liverpool a side that has built a mythology around European comebacks at Anfield produced almost nothing. The 4–0 aggregate reflects a structural gulf, not a bad night.
 
-Khvicha Kvaratskhelia has now **scored in four successive Champions League knockout matches** — a feat no PSG player had previously achieved in a single season. That matters more than it looks: sustained knockout-round output is one of the most reliable signals of a player entering peak form at the right point of the calendar.
+Khvicha Kvaratskhelia has now **scored in four successive Champions League knockout matches** a feat no PSG player had previously achieved in a single season. That matters more than it looks: sustained knockout-round output is one of the most reliable signals of a player entering peak form at the right point of the calendar.
 
 **What the data tells us:** PSG are the most consistent elite attacking unit left in the tournament. Their structure under Luis Enrique generates chances through positional rotations rather than individual brilliance, which is why they have not produced a "bad leg" in any knockout tie this season. Against a Liverpool side whose home defensive record has historically been one of the strongest in Europe, a clean aggregate sheet is a genuinely striking data point.
 
@@ -64,25 +64,25 @@ Khvicha Kvaratskhelia has now **scored in four successive Champions League knock
 
 ## 3. Atlético 3–2 Barcelona (agg) — Control, Red Cards, and Survival
 
-Atlético won the first leg 2–1 in Madrid and then lost the second leg 2–1 at the Metropolitano — yet advanced. The decisive moment came late: Eric García's red card for a professional foul on Alexander Sørloth ended Barcelona's hopes of forcing extra time. A man down, Barcelona pushed; Atlético's defensive block held.
+Atlético won the first leg 2–1 in Madrid and then lost the second leg 2–1 at the Metropolitano yet advanced. The decisive moment came late: Eric García's red card for a professional foul on Alexander Sørloth ended Barcelona's hopes of forcing extra time. A man down, Barcelona pushed; Atlético's defensive block held.
 
-This is Atlético's **first semi-final in nine years** — a fact that reflects both how difficult the modern Champions League has become for Simeone's structural defensive approach, and how well he has adapted it this season.
+This is Atlético's **first semi-final in nine years** a fact that reflects both how difficult the modern Champions League has become for Simeone's structural defensive approach, and how well he has adapted it this season.
 
 **What the data tells us:** This tie is a textbook example of *aggregate management as a distinct skill* from winning individual matches. Atlético lost one leg and drew the tie 3–3 on a night-by-night level, but their first-leg margin and their tactical discipline when numerically advantaged late in the second leg converted the tie. In a knockout format, being the team that plays *the tie* rather than *the match* is consistently rewarded — and structurally under-priced by most public models.
 
 ---
 
-## 4. Arsenal 1–0 Sporting (agg) — A Masterclass in Grinding
+## 4. Arsenal 1–0 Sporting (agg)  A Masterclass in Grinding
 
-The numbers from the Emirates second leg are remarkable, but not in the way Arsenal fans would have wanted. **The combined xG of the match was 0.93** (Arsenal 0.64, Sporting 0.29) — the lowest of any Champions League match in 2025/26, and the lowest of any quarter-final match in the competition since Barcelona vs Manchester United in April 2019.
+The numbers from the Emirates second leg are remarkable, but not in the way Arsenal fans would have wanted. **The combined xG of the match was 0.93** (Arsenal 0.64, Sporting 0.29)  the lowest of any Champions League match in 2025/26, and the lowest of any quarter-final match in the competition since Barcelona vs Manchester United in April 2019.
 
 Arsenal mustered a single shot on target across 90 minutes at home. Sporting hit the post through Geny Catamo. Leandro Trossard hit the post late on. Nobody hit the net.
 
 And yet Arsenal advanced, because Kai Havertz's late strike in Lisbon eight days earlier was enough.
 
-**What the data tells us:** Arsenal are now in **back-to-back Champions League semi-finals for the first time in their 140-year history**. Since the start of 2023/24, they have kept 13 clean sheets in 18 Champions League home matches — at least five more than any other side in the competition in that window. That is not a coincidence; it is the signature of a team whose entire knockout model is built on defensive reliability plus one goal from a set piece or a transition.
+**What the data tells us:** Arsenal are now in **back-to-back Champions League semi-finals for the first time in their 140-year history**. Since the start of 2023/24, they have kept 13 clean sheets in 18 Champions League home matches at least five more than any other side in the competition in that window. That is not a coincidence; it is the signature of a team whose entire knockout model is built on defensive reliability plus one goal from a set piece or a transition.
 
-Sporting, meanwhile, became the **10th consecutive Portuguese club to fail to progress from a Champions League quarter-final** since Porto beat Lyon in 2003/04. Six of those ten eliminations have come against English opposition — a long-running structural pattern in European football that deserves more analytical attention than it typically receives.
+Sporting, meanwhile, became the **10th consecutive Portuguese club to fail to progress from a Champions League quarter-final** since Porto beat Lyon in 2003/04. Six of those ten eliminations have come against English opposition a long-running structural pattern in European football that deserves more analytical attention than it typically receives.
 
 From the perspective of someone who spends their days thinking about concept drift, this is an interesting case: Portuguese sides consistently over-perform in the league phase and consistently under-perform in two-legged knockouts against English opposition. That is the kind of persistent *conditional* distribution shift that, in a classifier setting, you would want to model explicitly rather than average over. The marginal distribution of results is misleading; the conditional one, given stage and opponent nationality, is where the signal lives.
 
@@ -92,21 +92,21 @@ From the perspective of someone who spends their days thinking about concept dri
 
 The semi-finals will be played on **28/29 April and 5/6 May**, with the final at the Puskás Aréna in Budapest on **30 May 2026**:
 
-- **PSG vs Bayern München**
-- **Arsenal vs Atlético Madrid**
+ **PSG vs Bayern München**
+ **Arsenal vs Atlético Madrid**
 
 **From an analytical standpoint**, these are two very different ties:
 
-- **PSG vs Bayern** is the attacking showpiece — two of the highest-scoring knockout teams left in the tournament, both with elite pressing structures, both with players in peak form. This is the tie where xG models are likely to *over-predict* total goals, because elite defences tend to close down in semis in ways that regular-season-trained models don't capture. A classic case of model drift between training distribution (group and early knockout) and deployment distribution (semi-final).
-- **Arsenal vs Atlético** is the other end of the spectrum entirely. These are two of the lowest-xG-against sides left in the competition. A goalless 180 minutes would not shock anyone. If the combined xG of the two legs crosses 2.5, it will be an over-performance against the base rates both teams have established this season.
+**PSG vs Bayern** is the attacking showpiece two of the highest-scoring knockout teams left in the tournament, both with elite pressing structures, both with players in peak form. This is the tie where xG models are likely to *over-predict* total goals, because elite defences tend to close down in semis in ways that regular-season-trained models don't capture. A classic case of model drift between training distribution (group and early knockout) and deployment distribution (semi-final).
+**Arsenal vs Atlético** is the other end of the spectrum entirely. These are two of the lowest-xG-against sides left in the competition. A goalless 180 minutes would not shock anyone. If the combined xG of the two legs crosses 2.5, it will be an over-performance against the base rates both teams have established this season.
 
 ---
 
 ## Key Analytical Takeaways
 
-1. **Aggregate management is a distinct skill** — Atlético and Arsenal both advanced despite losing or drawing their second legs. Playing *the tie* rather than *the match* is one of the most consistently rewarded skills in two-legged European knockout football, and is structurally under-priced in most public models
-2. **xG has a floor problem at the elite level** — the Arsenal–Sporting second leg produced 0.93 combined xG. When two elite defensive structures meet, shot-quality-based models break down. In drift terms, this is a conditional distribution shift: the relationship between pressure and expected goals is not stationary across competition stages
-3. **Bayern's home base rate is the best in Europe right now** — one loss in 28 Champions League home matches is not a streak, it is a baseline. PSG will need to protect the first leg at the Parc des Princes to have any margin at the Allianz
-4. **The English–Portuguese quarter-final pattern keeps persisting** — ten consecutive eliminations, six of them against English clubs. That is not noise; it is a structural signal in the data worth investigating properly
+1. **Aggregate management is a distinct skill** Atlético and Arsenal both advanced despite losing or drawing their second legs. Playing *the tie* rather than *the match* is one of the most consistently rewarded skills in two-legged European knockout football, and is structurally under-priced in most public models
+2. **xG has a floor problem at the elite level**  the Arsenal–Sporting second leg produced 0.93 combined xG. When two elite defensive structures meet, shot-quality-based models break down. In drift terms, this is a conditional distribution shift: the relationship between pressure and expected goals is not stationary across competition stages
+3. **Bayern's home base rate is the best in Europe right now**  one loss in 28 Champions League home matches is not a streak, it is a baseline. PSG will need to protect the first leg at the Parc des Princes to have any margin at the Allianz
+4. **The English–Portuguese quarter-final pattern keeps persisting**  ten consecutive eliminations, six of them against English clubs. That is not noise; it is a structural signal in the data worth investigating properly
 
 
