@@ -141,11 +141,101 @@ page-layout: full
         EPRA International Journal of Economics, Business and Management Studies, Vol. 8, Issue 9 (2021)
       </p>
     </div>
+
+    <div class="pub-card">
+      <span class="tag">JQFE 2021</span>
+      <span class="tag">Economics</span>
+      <h4 style="margin-top: 0.8rem; font-size: 0.97rem; line-height: 1.4;">
+        The Impact of R&D Investment on Firm Performance: through the Moderating Effect of Investor Sentiment
+      </h4>
+      <p style="color: var(--text-muted); font-size: 0.87rem; margin: 0.3rem 0;">
+        I. Adubofour, X. Xu, T. Mangudhla, <strong style="color: var(--text);">B. Dadzie Mensah</strong>
+      </p>
+      <p style="color: var(--text-muted); font-size: 0.83rem; font-style: italic;">
+        Journal of Quantitative Finance and Economics, Vol. 3, Issue 1, pp. 79–98 (2021)
+      </p>
+      <a href="https://www.arfjournals.com/image/13467_6_adubofour.pdf" target="_blank" class="btn-outline-gold" style="font-size: 0.72rem; padding: 0.3rem 0.8rem; margin-top: 0.5rem;">View Paper →</a>
+    </div>
+
+    <div class="pub-card">
+      <span class="tag">ESJ 2020</span>
+      <span class="tag">Economics</span>
+      <h4 style="margin-top: 0.8rem; font-size: 0.97rem; line-height: 1.4;">
+        The Real Exchange Rate Regime and Economic Growth in Ghana
+      </h4>
+      <p style="color: var(--text-muted); font-size: 0.87rem; margin: 0.3rem 0;">
+        E.K. Osei, I. Adubofour, S. Adamu, <strong style="color: var(--text);">B. Dadzie Mensah</strong>
+      </p>
+      <p style="color: var(--text-muted); font-size: 0.83rem; font-style: italic;">
+        European Scientific Journal, Vol. 16, Issue 10 (2020)
+      </p>
+      <a href="https://eujournal.org/index.php/esj/article/view/12881" target="_blank" class="btn-outline-gold" style="font-size: 0.72rem; padding: 0.3rem 0.8rem; margin-top: 0.5rem;">View Paper →</a>
+    </div>
   </div>
 
   <!-- Conference Publications -->
   <div style="margin-top: 4rem;">
     <p class="section-label">Conference Publications</p>
+
+    <div class="pub-card">
+      <span class="tag">ICCCI 2026</span>
+      <span class="tag">Batch Detectors</span>
+      <h4 style="margin-top: 0.8rem; font-size: 0.97rem; line-height: 1.4;">
+        Drift Speed Matters: Chunk Size, Drift Length and Performance of Batch-Based Drift Detectors – A Case Study
+      </h4>
+      <p style="color: var(--text-muted); font-size: 0.87rem; margin: 0.3rem 0;">
+        <strong style="color: var(--text);">Benjamin Mensah Dadzie</strong>, Piotr Porwik
+      </p>
+      <p style="color: var(--text-muted); font-size: 0.83rem; font-style: italic;">
+        18th International Conference on Computational Collective Intelligence (ICCCI 2026), Heraklion, Greece
+      </p>
+      <a href="https://link.springer.com/chapter/10.1007/978-3-032-37936-8_32" target="_blank" class="btn-outline-gold" style="font-size: 0.72rem; padding: 0.3rem 0.8rem; margin-top: 0.5rem;">View Paper →</a>
+    </div>
+
+    <div class="pub-card">
+      <span class="tag">ISD 2026</span>
+      <span class="tag">Poster</span>
+      <h4 style="margin-top: 0.8rem; font-size: 0.97rem; line-height: 1.4;">
+        Chunk-Wise Evaluation of Unsupervised and Error-Based Concept Drift Detectors for AI-Enabled Information Systems
+      </h4>
+      <p style="color: var(--text-muted); font-size: 0.87rem; margin: 0.3rem 0;">
+        Piotr Porwik, <strong style="color: var(--text);">Benjamin Mensah Dadzie</strong>
+      </p>
+      <p style="color: var(--text-muted); font-size: 0.83rem; font-style: italic;">
+        Making ISD Sustainable: Reloaded with AI and Automation — 34th International Conference on Information Systems Development (ISD 2026), Prague, Czech Republic
+      </p>
+      <a href="https://aisel.aisnet.org/isd2014/proceedings2026/datascience/18/" target="_blank" class="btn-outline-gold" style="font-size: 0.72rem; padding: 0.3rem 0.8rem; margin-top: 0.5rem;">View Paper →</a>
+    </div>
+
+    <div class="pub-card">
+      <span class="tag">ICCS 2026</span>
+      <span class="tag">Feature-Rank Stability</span>
+      <h4 style="margin-top: 0.8rem; font-size: 0.97rem; line-height: 1.4;">
+        Detecting Feature Drift by Monitoring Feature-Rank Stability in Data Streams
+      </h4>
+      <p style="color: var(--text-muted); font-size: 0.87rem; margin: 0.3rem 0;">
+        <strong style="color: var(--text);">Benjamin Mensah Dadzie</strong>, Piotr Porwik
+      </p>
+      <p style="color: var(--text-muted); font-size: 0.83rem; font-style: italic;">
+        Computational Science – ICCS 2026, Lecture Notes in Computer Science, Vol. 16784, pp. 342–350
+      </p>
+      <a href="https://doi.org/10.1007/978-3-032-29924-6_27" target="_blank" class="btn-outline-gold" style="font-size: 0.72rem; padding: 0.3rem 0.8rem; margin-top: 0.5rem;">View Paper →</a>
+    </div>
+
+    <div class="pub-card">
+      <span class="tag">PP-RAI 2025</span>
+      <span class="tag">Ranking Methods</span>
+      <h4 style="margin-top: 0.8rem; font-size: 0.97rem; line-height: 1.4;">
+        Analysis of Ranking Methods and Classifiers for Drift Detection Using the Feature-Based Drift Detector
+      </h4>
+      <p style="color: var(--text-muted); font-size: 0.87rem; margin: 0.3rem 0;">
+        <strong style="color: var(--text);">Benjamin Mensah Dadzie</strong>, Piotr Porwik, Tomasz Orczyk
+      </p>
+      <p style="color: var(--text-muted); font-size: 0.83rem; font-style: italic;">
+        Advances in Artificial Intelligence Research (PP-RAI 2025), Lecture Notes in Networks and Systems, Vol. 1599
+      </p>
+      <a href="https://doi.org/10.1007/978-3-032-04197-5_30" target="_blank" class="btn-outline-gold" style="font-size: 0.72rem; padding: 0.3rem 0.8rem; margin-top: 0.5rem;">View Paper →</a>
+    </div>
 
     <div class="pub-card">
       <span class="tag">ACIIDS 2025</span>
