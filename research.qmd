@@ -87,6 +87,34 @@ page-layout: full
     </div>
 
     <div class="pub-card">
+      <span class="tag">ARJM 2024</span>
+      <span class="tag">Epidemiology</span>
+      <h4 style="margin-top: 0.8rem; font-size: 0.97rem; line-height: 1.4;">
+        Epidemiological Modelling of Yellow Fever Dynamics
+      </h4>
+      <p style="color: var(--text-muted); font-size: 0.87rem; margin: 0.3rem 0;">
+        H. Otoo, L. Brew, <strong style="color: var(--text);">B. Dadzie-Mensah</strong>
+      </p>
+      <p style="color: var(--text-muted); font-size: 0.83rem; font-style: italic;">
+        Asian Research Journal of Mathematics, 20(8), pp. 119–141 (2024)
+      </p>
+    </div>
+
+    <div class="pub-card">
+      <span class="tag">JAMP 2024</span>
+      <span class="tag">Mathematics</span>
+      <h4 style="margin-top: 0.8rem; font-size: 0.97rem; line-height: 1.4;">
+        Existence of Solutions of a Convolution Integral Equation
+      </h4>
+      <p style="color: var(--text-muted); font-size: 0.87rem; margin: 0.3rem 0;">
+        H. Otoo, <strong style="color: var(--text);">B. Dadzie Mensah</strong>, L. Brew
+      </p>
+      <p style="color: var(--text-muted); font-size: 0.83rem; font-style: italic;">
+        Journal of Applied Mathematics and Physics, 12(5), pp. 1835–1847 (2024)
+      </p>
+    </div>
+
+    <div class="pub-card">
       <span class="tag">Procedia CS 2023</span>
       <span class="tag">Feature Ranking</span>
       <h4 style="margin-top: 0.8rem; font-size: 0.97rem; line-height: 1.4;">
@@ -114,34 +142,6 @@ page-layout: full
         Procedia Computer Science, Vol. 207, pp. 168–175 (2022)
       </p>
       <a href="https://www.sciencedirect.com/science/article/pii/S187705092200922X" target="_blank" class="btn-outline-gold" style="font-size: 0.72rem; padding: 0.3rem 0.8rem; margin-top: 0.5rem;">View Paper →</a>
-    </div>
-
-    <div class="pub-card">
-      <span class="tag">ARJM 2024</span>
-      <span class="tag">Epidemiology</span>
-      <h4 style="margin-top: 0.8rem; font-size: 0.97rem; line-height: 1.4;">
-        Epidemiological Modelling of Yellow Fever Dynamics
-      </h4>
-      <p style="color: var(--text-muted); font-size: 0.87rem; margin: 0.3rem 0;">
-        H. Otoo, L. Brew, <strong style="color: var(--text);">B. Dadzie-Mensah</strong>
-      </p>
-      <p style="color: var(--text-muted); font-size: 0.83rem; font-style: italic;">
-        Asian Research Journal of Mathematics, 20(8), pp. 119–141 (2024)
-      </p>
-    </div>
-
-    <div class="pub-card">
-      <span class="tag">JAMP 2024</span>
-      <span class="tag">Mathematics</span>
-      <h4 style="margin-top: 0.8rem; font-size: 0.97rem; line-height: 1.4;">
-        Existence of Solutions of a Convolution Integral Equation
-      </h4>
-      <p style="color: var(--text-muted); font-size: 0.87rem; margin: 0.3rem 0;">
-        H. Otoo, <strong style="color: var(--text);">B. Dadzie Mensah</strong>, L. Brew
-      </p>
-      <p style="color: var(--text-muted); font-size: 0.83rem; font-style: italic;">
-        Journal of Applied Mathematics and Physics, 12(5), pp. 1835–1847 (2024)
-      </p>
     </div>
 
     <div class="pub-card">
