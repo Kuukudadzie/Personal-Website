@@ -21,8 +21,8 @@ page-layout: full
       <span class="tag">Core Theme</span>
       <h4 style="margin-top: 0.6rem;">Drift Detection</h4>
       <p style="color: var(--text-muted); font-size: 0.9rem;">
-        Feature-rank based methods, KS-test applications, distribution shift measurement 
-        in 2D and high-dimensional streams.
+        Feature-rank based methods, KS-test applications, noise-tolerant multi-view 
+        statistical fusion, and distribution shift measurement in 2D and high-dimensional streams.
       </p>
     </div>
     <div class="pub-card">
@@ -54,6 +54,22 @@ page-layout: full
   <!-- Journal Publications -->
   <div style="margin-top: 4rem;">
     <p class="section-label">Journal Publications</p>
+
+    <div class="pub-card">
+      <span class="tag">Procedia CS 2026</span>
+      <span class="tag">Noise-Tolerant Detection</span>
+      <span class="tag">Open Access</span>
+      <h4 style="margin-top: 0.8rem; font-size: 0.97rem; line-height: 1.4;">
+        Noise-Tolerant Multi-View Concept Drift Detection Based on Statistical Fusion
+      </h4>
+      <p style="color: var(--text-muted); font-size: 0.87rem; margin: 0.3rem 0;">
+        <strong style="color: var(--text);">Benjamin Mensah Dadzie</strong>, Piotr Porwik
+      </p>
+      <p style="color: var(--text-muted); font-size: 0.83rem; font-style: italic;">
+        Procedia Computer Science, Vol. 292, pp. 450–459 (2026) — KES 2026, 30th International Conference on Knowledge-Based and Intelligent Information &amp; Engineering Systems
+      </p>
+      <a href="https://doi.org/10.1016/j.procs.2026.09.121" target="_blank" class="btn-outline-gold" style="font-size: 0.72rem; padding: 0.3rem 0.8rem; margin-top: 0.5rem;">View Paper →</a>
+    </div>
 
     <div class="pub-card">
       <span class="tag">JAISCR 2025</span>
